@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58359" started-at="2018-06-20T22:18:08Z" finished-at="2018-06-20T22:19:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58359" started-at="2018-06-20T22:18:08Z" finished-at="2018-06-20T22:19:06Z">
+      <class name="com.prestashop.test.LoginPositiveScenarios">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.prestashop.test.LoginPositiveScenarios@685cb137]" name="setup" is-config="true" duration-ms="11192" started-at="2018-06-20T22:18:08Z" finished-at="2018-06-20T22:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.prestashop.test.LoginPositiveScenarios@685cb137]" name="loginTest" duration-ms="47143" started-at="2018-06-20T22:18:19Z" finished-at="2018-06-20T22:19:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.prestashop.test.LoginPositiveScenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
