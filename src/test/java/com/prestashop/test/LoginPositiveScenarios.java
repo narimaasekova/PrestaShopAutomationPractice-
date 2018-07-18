@@ -22,6 +22,8 @@ Faker f;
 		System.setProperty("webdriver.chrome.driver", "C:/seleniumDependancy/drivers/chromedriver.exe");
 		d = new ChromeDriver();
 	}
+	
+
 
  @Test
 public void  loginTest() throws InterruptedException {

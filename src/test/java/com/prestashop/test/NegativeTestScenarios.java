@@ -31,6 +31,7 @@ public void wrongCredentialTest() {
  failed.getText();
 
  Assert.assertTrue(failed.isDisplayed());
+ System.out.println("Positive vs Negative scenarios");
  
  }
 	@Test
